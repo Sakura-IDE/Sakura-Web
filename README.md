@@ -19,17 +19,3 @@
 <p align="left">Sakura is an IDE for beginners and experienced, which means it is open to everyone, and open-source, which means anyone can modify it and distribute.</p>
 
 ###
-
-<h2 align="left">How to setup Sakura</h2>
-
-###
-
-```bash
-Step 1: npm install
-
-Step 2: npm run dev
-```
-
-###
-
-<p align="left">Happy coding!</p>
